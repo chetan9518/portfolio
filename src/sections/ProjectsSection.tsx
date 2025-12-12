@@ -15,7 +15,7 @@ const projects = [
       'Redis caching',
     ],
     live: 'https://skillmatch.sbs',
-    github: 'https://github.com/chetan9518/skillmatch',
+    github: 'https://skillmatch.sbs/',
     stack: ['React', 'TypeScript', 'Node.js', 'Redis', 'Prisma', 'PostgreSQL', 'AWS S3'],
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     description: 'Peer-to-peer payment system with OTP-auth, Redis token storage, access control.',
     features: [],
     live: '',
-    github: 'https://github.com/chetan9518/skillpay',
+    github: 'https://github.com/chetan9518/paytm-clone',
     stack: ['Node.js', 'Express', 'MongoDB', 'React', 'Redis'],
   },
   {
