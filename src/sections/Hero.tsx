@@ -75,12 +75,12 @@ export function Hero() {
           <h1 id="hero-title" className="text-[2.7rem] font-semibold leading-[1.02] tracking-tightest sm:text-[3.6rem] lg:text-[3.5rem] xl:text-[4.1rem]">
             Chetan
             <span className="block text-muted">
-              Backend-first <span className="whitespace-nowrap">full-stack</span> engineer.
+              <span className="whitespace-nowrap">Full-stack</span> software engineer.
             </span>
           </h1>
 
           <p className="mt-7 max-w-xl text-[1.08rem] leading-relaxed text-muted">
-            Full-stack software engineer and CSE undergrad at IIIT Agartala. I design schemas, auth
+            Computer Science undergrad at IIIT Agartala. I design schemas, auth
             flows and real-time features in{' '}
             <span className="text-ink">TypeScript, Node.js, PostgreSQL and React</span>, then ship them to
             production. My code is merged in{' '}
