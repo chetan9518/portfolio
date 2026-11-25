@@ -102,8 +102,7 @@ export const projects: Project[] = [
     ],
     stack: ['React', 'TypeScript', 'Express.js', 'PostgreSQL', 'Prisma', 'Redis', 'AWS S3', 'WebSockets', 'Zod'],
     github: 'https://github.com/chetan9518/skillmatch',
-    // The résumé lists https://skillmatch.sbs as the live demo, but that domain no longer resolves (NXDOMAIN).
-    // Add `live: '<url>'` back here once the deployment is reachable again; the "Live demo" button reappears.
+    live: 'https://skillmatchbackeddatabase.pages.dev/',
   },
   {
     id: 'safestep',
@@ -156,8 +155,8 @@ export const projects: Project[] = [
 export const openSource = {
   repo: 'aws-powertools/powertools-lambda-typescript',
   project: 'Powertools for AWS Lambda (TypeScript)',
-  pr: 4137,
-  url: 'https://github.com/aws-powertools/powertools-lambda-typescript/pull/4137',
+  pr: 4146,
+  url: 'https://github.com/aws-powertools/powertools-lambda-typescript/pull/4146',
   summary:
     'Refactored core utility functions to reduce duplication and improve readability. Merged by AWS maintainers after several rounds of code review.',
 };
